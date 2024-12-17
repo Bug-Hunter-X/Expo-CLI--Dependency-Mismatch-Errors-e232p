@@ -1,0 +1,3 @@
+# Expo CLI Dependency Mismatch Errors
+
+This repository demonstrates a common issue encountered when using the Expo CLI: errors stemming from mismatched dependencies between the Expo CLI version, React Native, and other project packages.  The `expoBug.js` file contains a simulated project with outdated or conflicting dependencies, resulting in build failures.  The solution, demonstrated in `expoBugSolution.js`, shows how to resolve these issues using package management tools like `npm` or `yarn`.
